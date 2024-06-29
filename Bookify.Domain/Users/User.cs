@@ -28,5 +28,5 @@ public sealed class User : Entity
 
         return user;
     }
-
+    
 }
