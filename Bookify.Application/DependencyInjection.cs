@@ -7,7 +7,7 @@ namespace Bookify.Application;
 
 public static class DependencyInjection
 {
-    private static IServiceCollection AddApplication(this IServiceCollection services)
+    public static IServiceCollection AddApplication(this IServiceCollection services)
     {
         var assembly = typeof(DependencyInjection).Assembly;
 

@@ -42,7 +42,6 @@ internal sealed class SearchApartmentsQueryHandler
                 a.price_amount AS Price,
                 a.price_currency AS Currency,
                 a.address_country AS Country,
-                a.address_state AS State,
                 a.address_zip_code AS ZipCode,
                 a.address_city AS City,
                 a.address_street AS Street
