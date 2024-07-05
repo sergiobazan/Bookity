@@ -21,6 +21,7 @@
     <Folder Include="Abstractions\Clock\" />
     <Folder Include="Abstractions\Email\" />
     <Folder Include="Abstractions\Data\" />
+    <Folder Include="Abstractions\Caching\" />
     <Folder Include="Apartments\SearchApartments\" />
     <Folder Include="Bookings\Reserve\" />
   </ItemGroup>
